@@ -1,6 +1,6 @@
 # Angular Socket.IO IM Demo
 
-A simple instant messaging app to demo the [AngularJS Socket.IO Seed](https://github.com/btford/angular-socket-io-seed). [A walkthrough of writing the application is available on my blog](http://briantford.com/blog/angular-socket-io.html).
+A bit updated code with working bootstrap material.
 
 ## Running it
 
